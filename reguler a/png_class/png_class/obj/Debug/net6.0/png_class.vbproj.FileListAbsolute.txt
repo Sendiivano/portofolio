@@ -1,0 +1,12 @@
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\bin\Debug\net6.0\png_class.deps.json
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\bin\Debug\net6.0\png_class.dll
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\bin\Debug\net6.0\png_class.pdb
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\obj\Debug\net6.0\png_class.vbproj.AssemblyReference.cache
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\obj\Debug\net6.0\png_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\obj\Debug\net6.0\png_class.AssemblyInfoInputs.cache
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\obj\Debug\net6.0\png_class.AssemblyInfo.vb
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\obj\Debug\net6.0\png_class.vbproj.CoreCompileInputs.cache
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\obj\Debug\net6.0\png_class.dll
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\obj\Debug\net6.0\refint\png_class.dll
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\obj\Debug\net6.0\png_class.pdb
+C:\Users\sendi\source\repos\reguler a\png_class\png_class\obj\Debug\net6.0\ref\png_class.dll
